@@ -1,8 +1,6 @@
-## Bio
+## Wen Zhang
 
-You can use the [editor on GitHub](https://github.com/wzhangnpu/research.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dr. Wen Zhang is currently a Research Professor at the Center of Intelligent Acoustics and Immersive Communications (CIAIC), School of Marine Science and Technology, Northwestern Polytechnical University, Xi'an, China and an Adjunct Fellow with the Acoustics and Audio group, Research School of Engineering, The Australian National University, Canberra, Australia. Her research interests are mainly in the area of binaural hearing, spatial audio, and MIMO acoustic systems.
 
 ### Markdown
 
