@@ -1,6 +1,10 @@
 ## Wen Zhang
 
+<p style="text-align:justify">
+
 Dr. Wen Zhang is currently a Research Professor at the Center of Intelligent Acoustics and Immersive Communications (CIAIC), School of Marine Science and Technology, Northwestern Polytechnical University, Xi'an, China and an Adjunct Fellow with the Acoustics and Audio group, Research School of Engineering, The Australian National University, Canberra, Australia. Her research interests are mainly in the area of binaural hearing, spatial audio, and MIMO acoustic systems.
+
+</p>
 
 ### Markdown
 
